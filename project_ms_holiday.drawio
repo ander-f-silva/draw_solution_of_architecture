@@ -1,9 +1,30 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="26.0.16">
-  <diagram name="Página-1" id="2RenFq_UxUwV-3uJb9Gv">
-    <mxGraphModel>
+  <diagram name="arch c4 model" id="2RenFq_UxUwV-3uJb9Gv">
+    <mxGraphModel dx="1834" dy="754" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="RrGJIV7fD2zx-qqoZf7C-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RrGJIV7fD2zx-qqoZf7C-1" target="RrGJIV7fD2zx-qqoZf7C-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object placeholders="1" c4Name="Employee" c4Type="Person" c4Description="Employee to register data of holiday." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="RrGJIV7fD2zx-qqoZf7C-1">
+          <mxCell style="html=1;fontSize=11;dashed=0;whiteSpace=wrap;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;shape=mxgraph.c4.person2;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];resizable=0;" vertex="1" parent="1">
+            <mxGeometry x="-194" y="90" width="200" height="180" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="RrGJIV7fD2zx-qqoZf7C-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RrGJIV7fD2zx-qqoZf7C-2" target="RrGJIV7fD2zx-qqoZf7C-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object placeholders="1" c4Name="Holiday System" c4Type="Software System" c4Description="Description of software system." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="RrGJIV7fD2zx-qqoZf7C-2">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1061B0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0D5091;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+            <mxGeometry x="315" y="120" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Amazon AWS" c4Type="Software System" c4Description="Plataform Cloud for services of support" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="RrGJIV7fD2zx-qqoZf7C-4">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+            <mxGeometry x="766" y="119" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
       </root>
     </mxGraphModel>
   </diagram>
