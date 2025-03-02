@@ -1,0 +1,1 @@
+# draw_solution_of_architecture
